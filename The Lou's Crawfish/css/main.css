@@ -1,0 +1,32 @@
+body {margin: 0; padding: 0;}
+
+h1 {text-align: center; color: white;}
+
+
+
+
+.title-div {background-color: #FF7777; padding: 20% 2% 25%; margin: 0}
+
+.title-text {color: white; text-align: center; font-size: 3rem;}
+
+.title-header {font-size: 5rem; text-align: center; padding-bottom: 3%}
+
+
+
+
+
+.container {margin: 0 0 0; background-color: #F5C6A5; text-align: center; padding: 10% 10% 10%;}
+
+.menu {color: black; padding-bottom: 3%; text-align: center;  background-color: #F5C6A5;}
+
+.menu-divs {text-align: center;}
+
+.menu-headers {color: black; padding-bottom: 3%;}
+
+.menu-text {color: #476072;}
+
+
+
+
+
+.ordering {background-color: #FF7777; color: white; text-align: center; padding: 5% 5%;}
